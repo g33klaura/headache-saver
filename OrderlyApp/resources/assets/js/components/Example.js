@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
+// import Export from './Export';
 
 export default class Example extends Component {
     render() {
@@ -12,6 +13,7 @@ export default class Example extends Component {
 
                             <div className="panel-body">
                                 I'm an example component!
+                                
                             </div>
                         </div>
                     </div>
